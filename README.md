@@ -1,3 +1,4 @@
 # First-repository
 first Git Repository
-Author - Khubbaib Maqsood
+<br>
+Author M Khubaib Maqsood
